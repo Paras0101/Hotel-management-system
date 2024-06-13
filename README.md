@@ -9,6 +9,9 @@ This Hotel Management System is designed to streamline the management of a hotel
 - **Reservation Management:** Make and view reservations.
 - **Reporting:** Generate and download reservation reports using a Python script.
 
+  ![image](https://github.com/Paras0101/Hotel-management-system/assets/105678677/3545be77-d744-4d29-ba20-20837008b28e)
+
+
 ### Getting Started
 
 To get started with this project, follow these steps:
