@@ -1,6 +1,6 @@
 # Hotel Management System
 
-Welcome to the Hotel Management System for small size hotel! This project is a simple yet effective solution for managing hotel operations, including guest management, reservations, and reporting. The system is built using PHP for the backend and HTML for the frontend, with a MySQL database for storing data. Additionally, a Python script is included for generating reservation reports.
+Welcome to the Hotel Management System for small size hotel! This project is a simple yet effective solution for managing hotel operations, including guest management, reservations, and reporting. The system is built using PHP for the backend and HTML for the frontend, with a MySQL database for storing data. Additionally, a Python script is included for generating reservation reports. This was desgined to be implemented at a small size hotel only.
 
 
 This Hotel Management System is designed to streamline the management of a hotel’s operations. Key features include:
